@@ -1,0 +1,7 @@
+POST https://phonebook3b.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Max Mustermann",
+    "number": "49-0815"
+}

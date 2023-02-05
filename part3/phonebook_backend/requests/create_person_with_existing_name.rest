@@ -1,0 +1,7 @@
+POST https://phonebook3b.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Arto Hellas",
+    "number": "040-654321"
+}
